@@ -42,7 +42,7 @@ pnpm add react-scan
 ```
 
 ```bash
- yarn add react-scan
+yarn add react-scan
 ```
 
 ### CDN
