@@ -41,6 +41,10 @@ npm i react-scan
 pnpm add react-scan
 ```
 
+```bash
+ yarn add react-scan
+```
+
 ### CDN
 
 ```html
