@@ -30,15 +30,15 @@ Airbnb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://polaris.shopify.com/"
 ### Package managers
 
 ```bash
+bun add react-scan
+```
+
+```bash
 npm i react-scan
 ```
 
 ```bash
 pnpm add react-scan
-```
-
-```bash
-yarn add react-scan
 ```
 
 ### CDN
